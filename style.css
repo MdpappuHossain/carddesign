@@ -1,0 +1,99 @@
+
+
+.new{
+    background: yellowgreen;
+    width: 300px;
+    border: 7px solid brown;
+    border-radius: 9px;
+    outline: 8px dashed goldenrod;
+    margin: 25px 20px;
+padding: 25px 20px;
+
+}
+
+.h1{
+background: rgb(96, 243, 96);
+border: 5px solid yellow;
+border-radius: 6px;
+text-decoration: underline;
+
+
+}
+
+.paragarap{
+color: red;
+text-align: center;
+background-repeat: no-repeat;
+background-size: cover ;
+text-align: start;
+
+}
+
+.buttton{
+    background: rgb(238, 111, 26);
+    color: blue;
+    text-transform: uppercase;
+    border: 7px solid red;
+    border-radius: 6px;
+    margin: 25px 0px;
+
+}
+
+
+.ul{
+    display: flex;
+    
+}
+
+.div{
+    color: blueviolet;
+    font-size: 17px;
+    font-weight: 700;
+
+}
+
+
+.li{
+    list-style: decimal;
+    margin: 60px opx;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
